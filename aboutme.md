@@ -1,4 +1,4 @@
-##Hi there! I'm Aura. 👋
+##Hi there! I'm Aura. 👋##
 
 I'm a research fellow with the Reynolds Journalism Institute, focusing on building a data sonification toolkit. I also work as a data curator at the University of Michigan. 💻
 
