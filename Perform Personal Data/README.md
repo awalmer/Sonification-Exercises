@@ -6,7 +6,7 @@ _Using the audio of a ticking clock (inlcludes 25 ticks, 24 whole seconds) as yo
 
 _Maybe you can rope other people into your performance._ 🕺🏽🪩  
 
-Clock Ticking Audio: [Data file name]()
+Clock Ticking Audio: [clock ticking 24 seconds.m4a]()
 
 Audio Recording Tool: Personal smartphone or recording device
 
