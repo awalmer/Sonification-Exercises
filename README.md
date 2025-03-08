@@ -5,4 +5,4 @@ Click on a folder to find a sonification activity with hints to help you.
 
 Exercises are currently under development! Thanks for your patience.  
 
-Find [Quick Exercises](https://www.sonificationkit.com/data-sonification/quick-exercises) also listed in the toolkit.
+Find your way back here from the [Quick Exercises](https://www.sonificationkit.com/data-sonification/quick-exercises) section of the toolkit.
