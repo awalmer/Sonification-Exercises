@@ -1,3 +1,4 @@
 ## New York City Evictions
 
-Developing this folder, please refer to this [repo](https://github.com/awalmer/NYC-Evictions-Sonification) for the moment! 
+A sonification exercise for users of the [Data Sonification Toolkit](https://www.sonificationkit.com/).
+Follow the steps [here](https://www.sonificationkit.com/data-sonification/exercises/exercise-3-new-york-city-evictions).
