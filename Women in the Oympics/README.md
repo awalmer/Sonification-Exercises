@@ -1,19 +1,12 @@
 ## Women in the Olympics
 
-_Sonify the change in women participation in the Summer Olympic Games, from 1900 to 2024. Consider comparing the gradual increase with a contextual comparison of 50 percent._
+_The rate of participation of female athletes at the Summer Olympic Games finally reached 50% in 2024. It's taken a full century to climb from <5% to fair proportionate participation._
 
----
+**Goals**: Sonify female representation in the summer Olympic games over time. Add a sonic indicator for how the percentage of female athletes compares to 50%.  
 
-**Data Source**: [International Olympic Committee Factsheet, April 2024](https://stillmed.olympics.com/media/Documents/Olympic-Movement/Factsheets/Women-in-the-Olympic-Movement.pdf)
+**Tools**: DataSonifyer, Audacity
 
-**Data File**: [women-summer-olympics.csv](https://github.com/awalmer/Sonification-Exercises/blob/main/Women%20in%20the%20Oympics/women-summer-olympics.csv)
+**Method**: Parameter Mapping  
 
----
 
-**Steps**:
-1. Download the data file.
-2. Upload it to your tool of choice. Here are some options: Highcharts Sonification Studio, DataSonifyer, TwoTone, or csv-to-midi.
-3. Tweak, adjust parameters, experiment!
-4. If your output is in MIDI format, transfer the MIDI file into an audio editor.
-5. Edit the software instrument, add layers, and... _experiment_!
-
+Follow the steps on [this page](https://www.sonificationkit.com/data-sonification/exercises/exercise-1-women-in-the-olympics).
